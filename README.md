@@ -1,3 +1,7 @@
+# About Project Creation
+
+This project is first prototype webpage that I have created using React
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
